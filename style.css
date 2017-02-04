@@ -1,0 +1,36 @@
+.page{
+	margin-left: 25%;
+	margin-right: 20%;
+}
+
+.header{
+	display: inline-block;
+	width: 850px;
+	float: left;
+}
+.header p{
+	font-size: 25px;
+	color: gray;
+}
+.header a{
+	position: relative;
+	top: -55px;
+	left: -180px;
+	float: right;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	color: #338ED0;
+}
+.header a:hover{
+	background-color: #337AB7;
+	border-radius: 5px;
+	color: white;
+}
+
+.slider a{
+	background-color: #5CB85C;
+	padding: 20px;
+	border-radius: 5px;
+	
+}
